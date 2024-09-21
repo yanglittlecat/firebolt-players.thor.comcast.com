@@ -1,1 +1,2 @@
-# firebolt-players.thor.comcast.com
+subdomain takeover test
+takeovered by rui
